@@ -4,7 +4,7 @@ My name is Purvesh, and I am a Student at RCOEM Nagpur. I love technology, tinke
 
 [![Linkedin Badge](https://img.shields.io/badge/-Purvesh_Deshmukh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamisamav2/)](https://www.linkedin.com/in/kamisamav2/)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhant-khisty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## ⚡ Technologies
 
